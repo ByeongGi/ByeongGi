@@ -1,7 +1,5 @@
-# ByeongGi Kim
+## FrontEnd Developer 
+> [Swit Technologies Inc](http://swit.io/).
 
-## Front Developer [Swit Technologies Inc](http://swit.io/).
-
-
-### My Blog 
+## My Blog 
 - https://byeonggi.now.sh/
