@@ -1,3 +1,6 @@
 # ByeongGi Kim
 
-## Front Developer Swit Korea Inc.
+## Front Developer [Swit Technologies Inc](http://swit.io/).
+
+
+
