@@ -5,4 +5,4 @@
 전체적인 소프트웨어 아키텍처 설계에도 관심이 많습니다.
 
 ## My Blog 
-- https://byeonggi.now.sh/
+- [https://byeonggi.vercel.app/](https://byeonggi.vercel.app/)
