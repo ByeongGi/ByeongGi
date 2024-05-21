@@ -1,7 +1,7 @@
 ## About Me
 - 안녕하세요 2016년부터 웹개발자로 시작해서, 현재는 FrontEnd 개발자로 일하고 있는 ByeongGiKim입니다.
 
-- 프론트 분야 외에도 자동화나 외부시스템 연동하는 등에 관심이 많습니다.
+- 프론트 분야 외에도 업무 자동화나 외부시스템 연동하는 Open api등에도 관심이 많습니다.
   
   
 
@@ -10,7 +10,7 @@
 
 ## My Side Project 
 
-[Swit Korea](https://swit.io/)에서 재직 중에 Open api 등의 분야에 관심이 있어서
+[Swit Korea](https://swit.io/)에서 재직중에 Open api 등의 분야에 관심이 있어서
 아래의 사이드 프로젝트를 진행했습니다.
 
 - [node-swit-sdk](https://github.com/Swit-ChristianKim/node-swit-sdk)
