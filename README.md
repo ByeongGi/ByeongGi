@@ -8,10 +8,10 @@
 ## My Blog 
 - [https://byeonggi.vercel.app/](https://byeonggi.vercel.app/)
 
-## Open Source And 
+## My Side Project 
 
 [Swit Korea](https://swit.io/)에서 재직 중에 Open api 등의 분야에 관심이 있어서
-아래와 같은 오픈소스 프로젝트를 개인적으로 진행하였습니다.
+아래의 사이드 프로젝트를 진행했습니다.
 
 - [node-swit-sdk](https://github.com/Swit-ChristianKim/node-swit-sdk)
   > Swit Open Api Nodejs용 클라언트 SDK
