@@ -6,7 +6,7 @@
 이를 통해 개발 및 조직 전반의 업무 프로세스를 개선하고 효율성을 높이는 것을 목표로 하고 있습니다.
   
 
-### My Blog 
+### Portfolio 
 > [https://byeonggi.vercel.app/](https://byeonggi.vercel.app/)
 
 
@@ -26,7 +26,3 @@
 
 ### Company Gitbub
 - https://github.com/Swit-ChristianKim
-
-  
-## My Blog
-https://byeonggi.vercel.app/
